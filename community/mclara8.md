@@ -1,5 +1,5 @@
 # Maria Clara P. de Oliveira
-Olá Mundo, eu sou Maria Clara. Tenho 20 anos e decidi começar a estudar tecnologia por Ciências de Dados. 
+Olá Mundo! Eu me chamo Maria Clara, sou estudante de Sistemas de Informação, comecei a estudar tecnologia a pouco tempo e tenho me interessado cada dia mais pela área, sempre buscando evolução! 
 ## Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/feed/?trk=404_page) 
 [![GitHub](https://img.shields.io/badge/github-000?style=for-the-badge&logo=github)](https://github.com/mclara8)
